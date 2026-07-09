@@ -1,2 +1,4 @@
 # tabby
-enhanced query extensions for htslib's Tabix
+enhanced query extensions for htslib's [Tabix](https://github.com/samtools/htslib)
+
+
